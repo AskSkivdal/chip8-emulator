@@ -1,0 +1,6 @@
+*/target
+*/Cargo.lock
+*/pkg
+/games/*
+!/games/readme.md
+
